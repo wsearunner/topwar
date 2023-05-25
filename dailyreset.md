@@ -7,7 +7,7 @@
 # Daily Reset
 1. Reward Quest
 
-   - look at promotion badge to see what quest level (usually rare -> elite -> epic)
+   - look at promotion badge to see what quest level you should pursue (usually rare -> elite -> epic)
    - reset any lower quests (blue) to higher ... use gems if you like
      - you can reset any that were completed
      - you can reset any you don't want to complete
@@ -49,24 +49,24 @@
 
 10. Gathering
 
-   - return any gathers to collect Reward Quest
-   - send back out gathering based on research needs - R&D, oil, farms (never gather gold)
+    - return any gathers to collect Reward Quest
+    - send back out gathering based on research needs - R&D, oil, farms (never gather gold)
 
 11. Dark Forces / Warhammer
 
-   - send strongest march for any Empire Relics (I just use Di / Rob as my main march)
-   - once Radar is exhausted, send out 5x DF or WH rally
-     - DF based on what research is needed to level up - usually unit research is best
-   - reset to strongest march with Di / Rob (formation #1)
+    - send strongest march for any Empire Relics (I just use Di / Rob as my main march)
+    - once Radar is exhausted, send out 5x DF or WH rally
+      - DF based on what research is needed to level up - usually unit research is best
+    - reset to strongest march with Di / Rob (formation #1)
 
 12. Base / Research / Level Up
 
-    - claim 3x free gold
+    - claim VIP free gold
     - try to merge gold mines - get to highest level
     - merge units / base buildings (make sure to claim new units researched on merge)
     - start any new unit builds (Army > Navy > AF)
     - Radar HQ - any research upgrades (top to bottom)
-      - gold from 3x free, gem exchange, harvester, boxes - usually save boxes as much as possible
+      - gold from VIP, gem exchange, harvester, boxes - usually save boxes as much as possible
       - Sandtable to push whatever tech you need for upgrades
     - Special Effect Research (lvl 56) - upgrade all available
 
