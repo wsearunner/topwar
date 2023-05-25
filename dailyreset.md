@@ -1,10 +1,10 @@
-Pre-reset
+# Pre-reset
 - do not build barracks, shipyards, etc or train units
 - leave some radar, VIT unless you will be leveling up
 - turn off auto-join
 - collect dimension mines, rewards, are fine
 
-
+# Daily Reset
 1. Reward Quest
 
    - look at promotion badge to see what quest level (usually rare -> elite -> epic)
